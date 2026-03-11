@@ -16,7 +16,7 @@ startup founder in 12 months.
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
 ## 👥 Network with me 
-- https://www.youtube.com/channel/UCtveG6Hh7Vx04TMXwBzGFRg 
+[YouTube](https://www.youtube.com/channel/UCtveG6Hh7Vx04TMXwBzGFRg)
 
 
 ## 🌐 Connect with me
