@@ -14,7 +14,7 @@ learning something new every day.
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
 ## 👥 Network with me 
-[YouTube](https://www.youtube.com/channel/UCtveG6Hh7Vx04TMXwBzGFRg)
+
 
 
 ## 🌐 Connect with me
