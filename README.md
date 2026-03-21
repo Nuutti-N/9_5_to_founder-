@@ -5,8 +5,6 @@ I'm a 19-year-old aspiring developer from Finland 🇫🇮,
 passionate about coding, building projects, and 
 learning something new every day.
 
-Currently on a mission to go from beginner to 
-startup founder in 12 months.
 
 ## 🚀 What I'm Up To
 - 🐍 Mastering Python fundamentals
