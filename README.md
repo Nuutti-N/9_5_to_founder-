@@ -3,7 +3,7 @@
 💫 About Me
 I'm a 19-year-old aspiring developer from Finland 🇫🇮, 
 passionate about coding, building projects, and 
-learning something new every day. One day I will go to IPO
+learning something new every day. The goal solve humans problems, and One day I will go to the IPO! 
 
 
 ## 🚀 What I'm Up To
