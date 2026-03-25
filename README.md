@@ -9,8 +9,8 @@ learning something new every day. The goal solve humans problems, and One day I 
 ## 🚀 What I'm Up To
 - 🐍 Mastering Python fundamentals
 - ⚡ Learning FastAPI and backend development
-- 🤖 Exploring AI (ML) and cybersecurity 
-- 📱 Building my first real projects
+- 🤖 Exploring AI (ML) 
+- 📱 Building full stack real world projects
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
 ## 👥 Network with me 
