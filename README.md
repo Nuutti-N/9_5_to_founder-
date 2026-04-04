@@ -3,7 +3,7 @@
 💫 About Me
 I'm a 19-year-old aspiring developer from Finland 🇫🇮, 
 passionate about coding, building projects, and 
-learning something new every day. The goal solve humans problems, and One day I will go to the IPO! 
+learning something new every day. The goal is to solve human problems, and One day I will go to the IPO! 
 
 
 ## 🚀 What I'm Up To
@@ -19,6 +19,7 @@ learning something new every day. The goal solve humans problems, and One day I 
 
 ## 🌐 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuutti-kyll%C3%B6nen-b4958031b/)
+
 
 ## 💻 Tech Stack
 
