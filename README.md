@@ -17,8 +17,7 @@ learning something new every day. The goal is to solve human problems, and One d
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuutti-kyll%C3%B6nen-b4958031b/)
 
 ## 💬 Let's connect
-Open to collabarating, discussing tech, or just chatting about development, whatever.
-
+Open to collabarating, discussing tech, or just chatting about development!
 ## 💻 Tech Stack
 
 **Languages:**
