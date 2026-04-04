@@ -15,7 +15,7 @@ learning something new every day. The goal is to solve human problems, and One d
 
 ## 🌐 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuutti-kyll%C3%B6nen-b4958031b/)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuutti-N)](https://github.com/Nuutti-N)
+
 ## 💬 Let's connect
 Open to collabarating, discussing tech, or just chatting about development, whatever.
 
