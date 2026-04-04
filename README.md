@@ -13,10 +13,6 @@ learning something new every day. The goal is to solve human problems, and One d
 - 📱 Building full stack real world projects
 - 🎓 Starting Software Engineering studies (Fall 2026)
 
-## 👥 Network with me 
-
-
-
 ## 🌐 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuutti-kyll%C3%B6nen-b4958031b/)
 
