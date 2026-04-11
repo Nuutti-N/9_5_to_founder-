@@ -2,7 +2,7 @@
 
 💫 About Me
 I'm a 19-year-old backend developer from Finland 🇫🇮, 
-passionate about coding and AI, building projects, and 
+passionate about coding, building projects, and 
 learning something new every day. The goal is to solve human problems, and One day I will go to the IPO! 
 
 
